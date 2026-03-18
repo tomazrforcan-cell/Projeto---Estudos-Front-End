@@ -17,14 +17,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
   <br>
 
-  <p align="center">
-    <img alt="Projeto Devlinks" src=".github/preview.jpg"
-    width="100%">
-  </p>
-  </> Markdown
-  ##📸 Preview do Projeto
-  ![Preview do projeto](,github/preview.jpg)
+     </> Markdown
 
+##📸 Preview do Projeto
+![Preview do projeto](./.github/preview.jpg)
 
 ## Tecnologias
 
